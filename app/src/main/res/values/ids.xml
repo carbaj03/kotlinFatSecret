@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="swipe_refresh" type="id" />
+
+    <item name="login_main_container" type="id" />
+
+    <!--general-->
+    <item name="toolbar" type="id" />
+    <item name="appbar" type="id" />
+    <item name="appbar2" type="id" />
+    <item name="container" type="id" />
+
+    <!--search weight-->
+    <item name="tvName" type="id" />
+    <item name="tvDescription" type="id" />
+    <item name="rv_foods" type="id" />
+    <item name="parent" type="id" />
+
+    <!--diary-->
+    <item name="cv_diary" type="id" />
+    <item name="tv_calories" type="id" />
+
+    <!--login-->
+    <item name="btnLogin" type="id"/>
+
+    <!-- profile -->
+    <item name="tv_profile" type="id" />
+
+    <!--weight-->
+    <item name="rv_weight" type="id" />
+</resources>

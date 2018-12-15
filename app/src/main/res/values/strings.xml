@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Kotlin-fat-secret</string>
+    <string name="base_url">http://platform.fatsecret.com</string>
+    <string name="fat_secret_api_key">4eb42ee6f54d40d8ae282bf893214a8c</string>
+    <string name="btnLogin">Login</string>
+
+    <string name="action_user">User</string>
+    <string name="text_schedules">schedules</string>
+    <string name="text_favorites">favorites</string>
+
+    <string name="action_search">Search</string>
+
 </resources>
